@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x:hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* .navbar {
+  background-color: rgb(1,1,51) !important;
+  
+} */
+.nav-link {
+  color:white !important;
+}
+.navbar-brand {
+  color:white !important;
+}
+.pro-name {
+  font-size: 18px !important;
+  text-align: left !important;
+}
+.img-se {
+  height:200px !important;
+  text-align: center;
+ }
+.bigimg {
+  width:400px !important;
+  height: auto !important;
+  
+}
+.txt-left {
+  text-align: left;
+}
+.bt_rgt {
+  float: right;
+}
+.txt-lft {
+  text-align: left;
+}
+.txt-p {
+  text-align: justify;
+}
+.btn {
+  background-color: black !important;
+  color:white !important;
+  width:200px !important;
+}
+.img-sm {
+  width:80px;
+  height:80px;
+}
+input {
+  box-shadow: none !important;
+  margin-top: 10px !important;
+  border:1px solid black !important;
+}
+/* .btn_re {
+  text-align: right !important;
+} */
+.dropdown-toggle::after {
+  
+  margin-left: 0.3em !important;
+  vertical-align: 0.1em !important;
+}
+.dropdown-toggle {
+  margin-top:6px;
+  width: auto !important;
+  box-shadow: none !important;
+  border-color:white !important;
+}
+/* .nv_bk {
+  margin-top: 3px !important;
+} */
+
+
+/* .al_dan {
+  width:250px !important;
+} */
+.alert {
+  padding: 0.5rem 1rem !important;
+}
+.lk_cls {
+  color:black;
+  text-decoration: none;
+  text-align: center;
+}
+.mr_cls {
+  margin-right: 40px;
+}
+.bt_cl {
+ width:167px !important
+}
+.nav-item {
+background-color: #d8b37d !important;
+padding-top: 4px;
+padding-bottom: 4px;
+padding-left: 19px;
+padding-right: 19px;
+border-radius: 5px;
+margin-top:15px;
+margin-right: 35px;
+}
+.nav-link {
+  padding:0 !important;
+}
+.nav-bg {
+  background-color: #ffe5d8;
+  /* height: 264px; */
+  height:160px;
+}
+.btn_cls_1 {
+  width:100% !important;
+  background-color: #d8b37d !important;
+}
+.pd_tp {
+  padding-top: 85px;
+}
+.card-style {
+  margin-top: '80px';
+}
+/* .footer {
+  background-color: #ffe5d8;
+  height:300px;
+} */
